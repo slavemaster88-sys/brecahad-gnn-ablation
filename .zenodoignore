@@ -1,0 +1,9 @@
+# Files and directories that should NOT be included in the Zenodo archive
+__pycache__/
+*.pyc
+.DS_Store
+tcga_brca/
+BreCAHAD/
+*.pth
+*.pt
+checkpoints/

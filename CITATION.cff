@@ -1,0 +1,15 @@
+# Citation
+
+If you use this code or data in your research, please cite:
+
+```bibtex
+@article{[citation_key],
+  title = {Spatial Graph Structure Is Essential: An Ablation Study of Graph Neural Networks for Tumor Microenvironment Characterization in Breast Histopathology},
+  author = {[Author Names]},
+  journal = {Laboratory Investigation},
+  year = {2026},
+  doi = {[DOI to be assigned]}
+}
+```
+
+The code and processed data are archived on Zenodo: [![DOI](https://zenodo.org/badge/DOI/[zenodo_doi].svg)](https://doi.org/[zenodo_doi])

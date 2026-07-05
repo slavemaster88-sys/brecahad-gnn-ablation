@@ -1,0 +1,32 @@
+{
+  "title": "Spatial Graph Structure Is Essential: An Ablation Study of GNNs for Tumor Microenvironment Characterization in Breast Histopathology",
+  "description": "Analysis code, processed data, and figures for the manuscript 'Spatial Graph Structure Is Essential: An Ablation Study of Graph Neural Networks for Tumor Microenvironment Characterization in Breast Histopathology'. This repository provides a comprehensive two-level ablation framework using the BreCAHAD breast histopathology dataset. Level 1 compares traditional morphological (14-d), topological (26-d), and deep features for rare event detection. Level 2 constructs cell spatial graphs and evaluates GATv2 against MLP baselines through Full Graph vs. No Edges vs. Random Edges ablation. All evaluations use case-level stratified group k-fold cross-validation with bootstrap 95% confidence intervals.",
+  "creators": [
+    {
+      "name": "[Author Name 1]",
+      "affiliation": "[Institution 1]",
+      "orcid": "[ORCID 1]"
+    },
+    {
+      "name": "[Author Name 2]",
+      "affiliation": "[Institution 2]",
+      "orcid": "[ORCID 2]"
+    }
+  ],
+  "keywords": [
+    "computational pathology",
+    "graph neural networks",
+    "topological data analysis",
+    "tumor microenvironment",
+    "breast cancer",
+    "histopathology",
+    "ablation study",
+    "GATv2",
+    "GNNExplainer",
+    "persistent homology"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng"
+}
