@@ -1,0 +1,16 @@
+task,fold,test_cases,n_test,test_pos,AUC
+Mitosis,1,"Case_13,Case_2,Case_8",22,7,1.0
+Mitosis,2,"Case_1,Case_14,Case_17,Case_9",40,16,1.0
+Mitosis,3,"Case_4,Case_5,Case_7",27,1,1.0
+Mitosis,4,"Case_11,Case_12,Case_15",31,16,1.0
+Mitosis,5,"Case_10,Case_16,Case_3,Case_6",42,11,1.0
+Apoptosis,1,"Case_10,Case_15,Case_2",30,19,1.0
+Apoptosis,2,"Case_13,Case_14,Case_5",28,13,1.0
+Apoptosis,3,"Case_11,Case_17,Case_6",28,2,1.0
+Apoptosis,4,"Case_1,Case_16,Case_3,Case_7",42,17,1.0
+Apoptosis,5,"Case_12,Case_4,Case_8,Case_9",34,23,1.0
+Tubule,1,"Case_10,Case_11,Case_5",23,15,1.0
+Tubule,2,"Case_1,Case_12,Case_13,Case_14",42,9,1.0
+Tubule,3,"Case_17,Case_4,Case_9",30,24,1.0
+Tubule,4,"Case_16,Case_2,Case_6",30,29,1.0
+Tubule,5,"Case_15,Case_3,Case_7,Case_8",37,22,1.0

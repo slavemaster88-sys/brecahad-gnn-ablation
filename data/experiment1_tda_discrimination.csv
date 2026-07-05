@@ -1,0 +1,4 @@
+label,n_pos,n_neg,sig_p05,sig_bonf,min_p,median_p,total_dims
+has_mitosis,51,111,975,73,1.13895655366984e-08,1.0,5112
+has_apoptosis,74,88,789,3,6.320612152137423e-06,1.0,5112
+has_tubule,99,63,830,16,7.877097786325333e-08,1.0,5112

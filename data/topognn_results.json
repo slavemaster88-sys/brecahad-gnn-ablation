@@ -1,0 +1,14 @@
+{
+  "topognn": {
+    "test_acc": 1.0,
+    "test_f1": 1.0
+  },
+  "gnn_only": {
+    "test_acc": 1.0,
+    "test_f1": 1.0
+  },
+  "improvement": {
+    "acc_delta": 0.0,
+    "f1_delta": 0.0
+  }
+}
